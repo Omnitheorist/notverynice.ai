@@ -11,13 +11,14 @@ header h1 {
 	font-family: 'Courier Prime', monospace;
 }
 
-#protip {
+.protip {
 	position: absolute;
 	bottom: 5px;
 	margin-left: 5px;
 	font-family: 'Inconsolata', monospace;
 	background-color: yellow;
 	padding: 10px;
+	display: inline;
 
 }
 

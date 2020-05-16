@@ -1,5 +1,5 @@
-#notverynice.ai
-##This voice assistant would rather not assist you.
+# notverynice.ai
+## This voice assistant would rather not assist you.
 **Warning: This robot cusses.**
 ---
 A demonstration should be available [here](nitrojon.me/notverynice.ai).

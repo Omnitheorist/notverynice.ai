@@ -2,7 +2,7 @@
 ## This voice assistant would rather not assist you.
 **Warning: This robot cusses.**
 ---
-A demonstration should be available [here](nitrojon.me/notverynice.ai).
+A demonstration should be available [here](https://nitrojon.me/notverynice.ai/).
 
 It simply listens to audio input, and then scans the transcript for certain keywords which trigger responses from an array. Built using vanilla JS, HTML and CSS.
 

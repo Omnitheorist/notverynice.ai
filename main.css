@@ -1,0 +1,30 @@
+* {
+	margin-left: 5px;
+}
+
+
+header h1 {
+	font-family: 'Inconsolata', monospace;
+}
+
+.content, .reply {
+	font-family: 'Courier Prime', monospace;
+}
+
+#protip {
+	position: absolute;
+	bottom: 5px;
+	margin-left: 5px;
+	font-family: 'Inconsolata', monospace;
+	background-color: yellow;
+	padding: 10px;
+
+}
+
+button {
+border-radius: 12px;
+padding: 10px 20px;
+font-family: 'Inconsolata', monospace;
+font-size: 1rem;
+margin-bottom: 20px;
+}
